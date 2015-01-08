@@ -1,0 +1,93 @@
+html, body {
+	height: 100%;
+	background: gray;
+
+}
+
+.top {
+	height: 20%;
+	width: 70%;
+	margin: 0 auto;
+	background: white;
+	
+	
+}
+.words {
+	height: 75%;
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+.twoclicks {
+	height: 25%;
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+
+}
+
+
+.clickRed {
+	height:100%;
+	width: 25%;
+	background: red;
+	margin-left: 5%;
+}
+
+.clickBlue {
+	height: 100%;
+	width: 25%;
+	background: blue;
+	font-color: white;
+	margin-left: 5%;
+	
+}
+
+.midBox {
+	height: 40%;
+	width: 70%;
+	background: white;
+	margin: 100px auto;
+	position: relative;
+	padding: 10px;
+}
+
+.picbox {
+	height: 60%;
+	width: 80%;
+	margin: 0 auto;
+	background-image: url(http://th03.deviantart.net/fs45/PRE/f/2009/106/c/1/HD_Nature_Wallpapers_by_CurtiXs.jpg)
+}
+
+.word2 {
+	height: 40%;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.bottom {
+	height: 10%;
+	width: 100%;
+	background: black;
+	display: flex;
+	justify-content: flex-end;
+	position: absolute;
+    bottom: 0;
+
+
+
+}
+.apple {
+	height: 100%;
+	width: 10%;
+	background: white;
+	margin-right: 20px;
+}
+
+.google {
+	height: 100%;
+	width: 10%;
+	background: blue;
+	margin-right: 20px;
+}

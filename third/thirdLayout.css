@@ -1,0 +1,70 @@
+html, body {
+	height: 100%;
+	padding: 10px;
+}
+
+.topbar {
+	height: 10%;
+	background: black;
+	position: relative;
+	top: 0;
+
+
+
+}
+
+.apple {
+	height: 100%;
+	width: 10%;
+	background: black;
+	position: relative;
+	left: 8%;
+	float: left;
+
+
+}
+
+.google {
+	height: 100%;
+	width: 10%;
+	background: black;
+	position: relative;
+	left: 10%;
+	top: 0;
+	float: left;
+}
+
+.bottombar {
+	height: 10%;
+	width: 100%;
+	background: black;
+	position: absolute;
+	bottom: 0;
+	
+}
+.bigTitle {
+	height: 10%;
+	width: 35%;
+	position: relative;
+}
+.para {
+	height: 60%;
+	width: 35%;
+}
+.tasi {
+	position: relative;
+	float: left;
+}
+
+.lua {
+	position: relative;
+	left: 30%;
+	float: left;
+}
+
+.forpic{
+	height:40%;
+	width: 40%;
+	margin-left: 100px;
+	background-image: url(http://walleye411.com/wp-content/uploads/2011/06/bucherwalleye.jpg)
+}
